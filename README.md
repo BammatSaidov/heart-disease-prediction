@@ -25,9 +25,11 @@
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 
-2. Перед запуском скрипта убедитесь, что датасет и скрипт лежат в одной папке
 
-3. Запустите скрипт
+2. Перед запуском скрипта убедитесь, что датасет и скрипт лежат в одной папке:
+
+3. Запустите скрипт:
+```bash
 python heart_disease_prediction.py
 
 
