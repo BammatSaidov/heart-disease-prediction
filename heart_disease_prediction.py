@@ -17,7 +17,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.naive_bayes import GaussianNB
 
 # Загрузка датасета
-df = pd.read_csv("heart.csv")
+df = pd.read_csv("heart_disease_dataset.csv")
 
 # Целевая переменная
 target = "HeartDisease"
